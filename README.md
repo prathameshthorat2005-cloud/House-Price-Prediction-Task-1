@@ -28,7 +28,7 @@ Completed as part of the Sumerix Global AI & ML Internship Task 1.
 
 ## Files Included
 
-* task1_ml_linear_regression_model.ipynb
+* task1_ml_linear_regression.ipynb
 * Report.pdf
 * house_price_prediction_model.pkl
 * README.md
